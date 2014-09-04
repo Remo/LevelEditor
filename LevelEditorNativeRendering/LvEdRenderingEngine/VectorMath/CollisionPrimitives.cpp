@@ -2,6 +2,7 @@
 
 #include "CollisionPrimitives.h"
 #include <float.h>
+#include <algorithm>
 
 namespace LvEdEngine
 {
